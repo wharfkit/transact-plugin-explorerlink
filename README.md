@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This package lives in the WharfKit monorepo at [wharfkit/js/packages/transact-plugin-explorerlink](https://github.com/wharfkit/js/tree/dev/packages/transact-plugin-explorerlink), and this repository is archived. Open new issues and pull requests on [wharfkit/js](https://github.com/wharfkit/js).
+
 # @wharfkit/transact-plugin-explorerlink
 
 A plugin to display a link to a block explorer after a transaction has been completed.
